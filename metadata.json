@@ -1,0 +1,6 @@
+{
+  "name": "SmartPro Trader - Indian Markets & Angel One",
+  "description": "Pro-level Indian market trading platform covering NSE, BSE, Nifty, Bank Nifty, Commodities, Options, Smart Money Concepts, TradingView charts, and Angel One SmartAPI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
